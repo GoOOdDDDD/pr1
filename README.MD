@@ -2,7 +2,7 @@
 
 ## Работа с ``GIT``
 
-<p aligm="center"><img src="https://clck.ru/362Cug" width="400"></p>
+<p alig="center"><img src="https://clck.ru/362Cug" width="400"></p>
 
 <p> <a href="https://www.twitch.tv/stray228">ССЫЛКА</a> </p>
 
